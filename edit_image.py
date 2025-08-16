@@ -6,7 +6,7 @@ import streamlit as st
 from PIL import Image, ImageFilter, ImageEnhance, ImageOps, ExifTags
 
 # ---------- Page setup ----------
-st.set_page_config(page_title="Image Filter App", page_icon="🎨", layout="wide")
+st.set_page_config(page_title="Fatima's Image Editor", page_icon="🎨", layout="wide")
 st.title("🎨 Image Filter App")
 st.caption("Upload a photo, tweak filters, and download the result.")
 
