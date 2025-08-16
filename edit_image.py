@@ -7,7 +7,7 @@ from PIL import Image, ImageFilter, ImageEnhance, ImageOps, ExifTags
 
 # ---------- Page setup ----------
 st.set_page_config(page_title="Fatima's Image Editor", page_icon="🎨", layout="wide")
-st.title("🎨 Image Filter App")
+st.title("🎨 Fatima's Image Editor")
 st.caption("Upload a photo, tweak filters, and download the result.")
 
 # ---------- Helpers ----------
